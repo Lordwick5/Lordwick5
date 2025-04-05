@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Prashant. 
-<!---
-Lordwick5/Lordwick5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Namaste, I’m Prashant.👋
+
+💻 Computer Science Student </br>
+🌱 I'm currently learning Web Development </br> 
+🏀 I love playing basketball; even though I'm not good at it </br>
+💬 Ask me about Life </br>
+💪 I like working out too </br>
+📧 Send me a email at Prashantchy96@gmail.com
