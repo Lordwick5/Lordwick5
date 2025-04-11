@@ -1,4 +1,11 @@
-# 💫 About Me:<br>Namaste, I’m Prashant.👋<br>💻 Computer Science Student </br>🌱 I'm currently learning Web Development </br>🏀 I love playing basketball; even though I'm not good at it <br>💬 Ask me about Life </br>💪 I like working out </br>📧 Send me a email at Prashantchy96@gmail.com<br><br>
+# 💫 About Me:
+<br>Namaste, I’m Prashant.👋<br>
+💻 Computer Science Student </br>
+🌱 I'm currently learning Web Development </br>
+🏀 I love playing basketball; even though I'm not good at it <br>
+💬 Ask me about Life </br>
+💪 I like working out </br>
+📧 Send me a email at Prashantchy96@gmail.com<br><br>
 
 
 ## 🌐 Socials:
