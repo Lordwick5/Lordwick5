@@ -1,5 +1,5 @@
-# Namaste, I’m Prashant.
-<br>💫 About Me:👋<br>
+#<h1> Namaste, I’m Prashant.</h1>
+<br><h2>💫 About Me:👋</h2><br>
 💻 Computer Science Student </br>
 🌱 Currently learning Web Development </br>
 🏀 I love playing basketball; even though I'm not good at it <br>
