@@ -1,4 +1,6 @@
-#<h1> Namaste, I’m Prashant.</h1>
+<div align="center">
+  <h1> Namaste, I’m Prashant.</h1>
+</div>
 <br><h2>💫 About Me:👋</h2><br>
 💻 Computer Science Student </br>
 🌱 Currently learning Web Development </br>
