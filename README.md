@@ -1,7 +1,7 @@
 <div align="center">
-  <h1> Namaste, I’m Prashant.</h1>
+  <h1> Namaste, I’m Prashant.👋</h1>
 </div>
-<br><h2>💫 About Me:👋</h2><br>
+<br><h2>💫 About Me:</h2>
 💻 Computer Science Student </br>
 🌱 Currently learning Web Development </br>
 🏀 I love playing basketball; even though I'm not good at it <br>
