@@ -2,6 +2,7 @@
   <h1> Namaste, I’m Prashant.👋</h1>
   <p>A self-taught dev transforming curiosity into a Fullstack reality</p>
 </div>
+<br>
 <h2>💫 About Me:</h2>
 💻 Computer Science Student </br>
 🌱 Currently learning Web Development </br>
