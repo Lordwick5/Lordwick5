@@ -4,7 +4,7 @@
 </div>
 <br>
 
-<h2>💫 About Me:</h2><br>💻 Computer Science Student </br><br>🌱 Currently learning Web Development </br><br>🏀 I love playing basketball; even though I'm not good at it <br><br>💬 Ask me about Life </br><br>💪 I like working out </br><br>📧 Send me a email at Prashantchy96@gmail.com<br><br>
+<h2>💫 About Me:</h2><br>💻 Computer Science Student<br>🌱 Currently learning Web Development<br>🏀 I love playing basketball; even though I'm not good at it<br>💬 Ask me about Life<br>💪 I like working out<br>📧 Send me a email at Prashantchy96@gmail.com<br><br>
 
 
 ## 🌐 Socials:
